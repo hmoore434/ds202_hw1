@@ -1,0 +1,26 @@
+---
+title: 'Partner'
+author: "Kellan Bouwman"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Lab 1. Partner response
+
+1. Your (the Partner’s) full name and GitHub username.
+    
+    Heather Moore, Github username - hmoore343
+    
+2. What did the Owner do in the most recent commit? What is the commit ID?
+
+    Most recent commit was "information for Lab 1", this added Hmwk1.rmd and Hmwk1.html to the git file. The commit id is - commit 92f0c6585404e7037eba7266f793f9e72240b248.
+
+3. Knit the Owner’s hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?
+
+    No issues when I knit her, Hmwk1.rmd file.
+
+4. Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier.
+
+    Answer: No diffuculty, just had to make sure to read the directions carfuly and make sure that I am useing the right git commands. Tip - make sure you read the git directory and be familar with the commands.
